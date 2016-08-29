@@ -17,3 +17,8 @@ int add (int p, int q)
 {
     return p-q;
  }
+
+float divide (int p, int q)
+{
+    return p/q;
+ }
